@@ -1,6 +1,6 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="banner-bg.jpg" width="100%" alt="Cyberpunk Banner" />
+  <img src="banner-bg.jpg" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">⚡ Welcome to My Cyber Realm ⚡</h1>
@@ -43,7 +43,7 @@
 
 <!-- Banner Bawah -->
 <p align="center">
-  <img src="footer-bg.jpg" width="100%" alt="Cyberpunk Footer" />
+  <img src="footer-bg.jpg" width="100%" alt="Banner Footer" />
 </p>
 
-<p align="center">✨ Powered by fajar and waifu energy ✨</p>
+<p align="center">✨ Powered by fajar, agir and cantarella ✨</p>
