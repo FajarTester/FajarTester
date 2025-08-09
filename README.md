@@ -1,10 +1,10 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="Cat2.webp" width="100%" alt="Header Banner" />
+  <img src="Cat2.webp" width="100%" height="80%" alt="Header Banner" />
 </p>
 
-<h1 align="center">⚡ Welcome to My Cyber Realm ⚡</h1>
-<h3 align="center">Backend Dev | Cyberpunk Enthusiast | Waifu Collector</h3>
+<h1 align="center">⚡ Welcome to My GitHub ⚡</h1>
+<h3 align="center">FullStack Dev || Waifu Collector</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="center" background="red">
   <img src="https://github-readme-stats.vercel.app/api?username=FajarTester5&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarTester5&layout=compact&theme=tokyonight" height="165">
 </p>
@@ -46,4 +46,4 @@
   <img src="footer-bg.jpg" width="100%" alt="Banner Footer" />
 </p>
 
-<p align="center">✨ Powered by fajar, agir and cantarella ✨</p>
+<p align="center">✨ Powered By Fajar, Agir And Cantarella ✨</p>
