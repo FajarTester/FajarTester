@@ -1,6 +1,6 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="Cat2.webp" width="100%" height="80%" alt="Header Banner" />
+  <img src="Cat2.webp" width="100%" height="50%" alt="Header Banner" />
 </p>
 
 <h1 align="center">⚡ Welcome to My GitHub ⚡</h1>
@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center" background="red">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FajarTester5&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajarTester5&layout=compact&theme=tokyonight" height="165">
 </p>
