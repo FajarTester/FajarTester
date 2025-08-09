@@ -33,7 +33,6 @@
 
 ---
 
----
 
 ## 🔗 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=fff)](https://instagram.com/FajarTester5)
@@ -47,4 +46,4 @@
   <img src="footer-bg.jpg" width="100%" alt="Cyberpunk Footer" />
 </p>
 
-<p align="center">✨ Powered by code, coffee, and waifu energy ✨</p>
+<p align="center">✨ Powered by fajar and waifu energy ✨</p>
