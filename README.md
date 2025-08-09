@@ -1,6 +1,6 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="banner-bg.jpg" width="100%" alt="Header Banner" />
+  <img src="Cat2.webp" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">⚡ Welcome to My Cyber Realm ⚡</h1>
