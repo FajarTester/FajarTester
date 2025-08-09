@@ -1,7 +1,4 @@
-
-
 <!-- Banner atau GIF atas -->
-<div background="black">Black</div>
 <p align="center">
   <img src="https://link-banner-cantarella.jpg" width="100%" />
 </p>
