@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="cantarella.jpg" width="100%" alt="Header Banner" />
+  <img src="Banner.jpg" width="100%" alt="Header Banner" />
 </p>
 
 <!-- ===== TITLE & INTRO ===== -->
@@ -42,12 +42,12 @@ Cantarella & Agir always by my side ❤️
 
 ## 🎵 Currently Vibing To
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
-
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1fLShBLFdS1gTv9KSXWQMG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
 <!-- ===== FOOTER BANNER 1 ===== -->
 <p align="center">
-  <img src="footer-1.jpg" width="100%" alt="Footer Banner 1" />
+  <img src="cantarella.jpg" width="100%" alt="Footer Banner 1" />
 </p>
 
 ---
